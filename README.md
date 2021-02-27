@@ -25,7 +25,7 @@ O Moveit é uma aplicação que utilizar técnica de comodoro que consistem em c
 
 ## 🔖 Layout
 
-<img alt="Moveit" src="public\home.png" />
+<img alt="Finanças" src="public\home.png" />
 
 
 

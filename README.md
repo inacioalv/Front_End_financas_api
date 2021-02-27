@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Finanças é uma aplicação para cadastro de lançamentos e usuários.
 
 ## Backend
--[Link](https://github.com/cursodsousa/minhasfinancas-api.git)
+Backend realizado por Dougllas Sousa [Link](https://github.com/cursodsousa/minhasfinancas-api.git)
 
 ## 🔖 Layout
 

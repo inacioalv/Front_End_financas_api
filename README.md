@@ -25,7 +25,7 @@ O Finanças é uma aplicação para cadastro de lançamentos e usuários.
 
 ## 🔖 Layout
 
-<img alt="Finanças" src="public\home.png" />
+<img alt="Finanças" src="public\img/home.png" />
 
 
 

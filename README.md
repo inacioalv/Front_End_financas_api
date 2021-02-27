@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Moveit é uma aplicação que utilizar técnica de comodoro que consistem em cada períodos de 25 minutos de um cronômetro para de trabalho e realiza algum exercico.
+O Finanças é uma aplicação para cadastro de lançamentos.
 
 ## 🔖 Layout
 

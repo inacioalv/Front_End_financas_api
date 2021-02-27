@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Finanças é uma aplicação para cadastro de lançamentos.
+O Finanças é uma aplicação para cadastro de lançamentos e usuários.
 
 ## 🔖 Layout
 

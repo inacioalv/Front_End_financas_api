@@ -32,7 +32,9 @@ Backend realizado por Dougllas Sousa [Link](https://github.com/cursodsousa/minha
 <img alt="user" src="public\img/Cadastrouser.png" />
 <img alt="Lancamento" src="public\img/CadastroLancamento.png" />
 
+## 📝 Licença
 
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 
 
 ## Available Scripts
